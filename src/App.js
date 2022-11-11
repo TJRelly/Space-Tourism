@@ -3,7 +3,7 @@ import Design from './components/Design';
 
 function App() {
     return (
-        <div className="App">
+        <div className='App' >
             <Design />
         </div>
     );
